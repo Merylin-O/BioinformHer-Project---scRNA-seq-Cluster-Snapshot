@@ -47,7 +47,7 @@ Cluster-Level Gene Means
 *   **Myeloid** → LYZ-high
     
 
-👉 Marker patterns **match known immune cell biology**.
+Marker patterns **match known immune cell biology**.
 
 Proliferation Marker MKI67
 --------------------------
